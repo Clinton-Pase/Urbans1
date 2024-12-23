@@ -465,7 +465,7 @@ h2 {
     height: 500px;
     margin: 10px;
     border-radius: 50px;
-    background: url(/AIME1.jpg);
+    background: url(./AIME1.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -473,31 +473,31 @@ h2 {
 }
 
 .img-box:nth-child(2) {
-    background: url(/AIME2.jpg);
+    background: url(./AIME2.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .img-box:nth-child(3) {
-    background: url(/ooooo.jpg);
+    background: url(./ooooo.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .img-box:nth-child(4) {
-    background: url(/AIME4.jpg);
+    background: url(./AIME4.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .img-box:nth-child(5) {
-    background: url(/AIME5.jpg);
+    background: url(./AIME5.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .img-box:nth-child(6) {
-    background: url(/AIME6.jp g);
+    background: url(./AIME6.jp g);
     background-position: center;
     background-size: cover;
 }
